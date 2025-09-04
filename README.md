@@ -1,3 +1,3 @@
-\# My first repository..
-\*\* 77 is lucky number \*\*
+# My first repository..
+** 77 is lucky number **
 
